@@ -9,7 +9,7 @@ Currently, two official plugins are available:
 
 # Installation and Setup
 # Clone the repository:
-git clone https://github.com/yourusername/your-repository-name.git
+git clone [https://github.com/yourusername/your-repository-name.git](https://github.com/Sachinnegi825/WidgetWizard.git)
 
 
 # Navigate to the project directory:
